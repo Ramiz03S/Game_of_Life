@@ -1,0 +1,20 @@
+To start playing enter 3(type 3 then press enter)
+Then you are given the choice of manually choosing the cells you want to be alive initially
+or choosing from samples I made.
+If you enter 1: 
+  you will then be asked to choose the number of rows and columns of your grid
+  enter them in X,X format where X is a positive integer greater than 3,
+  skip this step by entering zero and choosing a default of 10,10.
+  you will then be asked to input the coordinates of the alive cells.
+  Do so by entering X,Y where X and Y and positive integers, and repeat till you're done, then enter 0.
+  Keep in mind, a grid of 5,5 for examples, will have rows and columns indexed from 0 to 4, so do NOT enter cell coordinates that exceed 4.
+  After that, keep entering 1 to see the grid of cells change(or not) with each iteration. Then, enter 2 to go back to the main menu.
+  Or you can enter 3, to save the current grid you see on the screen to a file which can be used in section 2.
+If you enter 2:
+  enter the number of the option you want to select,
+  After that, keep entering 1 to see the grid of cells change(or not) with each iteration.
+  Then, enter 2 to go back to the main menu.
+
+Enter 1 now to go back to the main menu.
+
+

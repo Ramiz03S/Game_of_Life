@@ -1,0 +1,9 @@
+Choose from the following patterns!
+1.Light-weight spaceship
+2.Toad
+3.glider
+4.bunnies
+5.worker bee
+6.new file made after saving the grid 
+Enter their number to see them!
+Enter 7 to return to menu.

@@ -1,0 +1,12 @@
+The game is called a zero-player game, you only input the initial state of the system and you watch as it evolves on its own after that.
+The game is made up of a grid of cells and they can either be dead or alive.
+The state of a cell after the initial state is determined by the state of the cells that neighbor it via a set of specified rules: 
+1.	Any live cell with less than two live neighbors dies in the next iteration. 
+2.	Any live cell with two or three live neighbors stays alive in the next iteration. 
+3.	Any live cell with more than three neighbors dies in the next iteration.
+4.	Any dead cell with exactly three neighbors, becomes alive in the next iteration.
+Initially, all cells would be dead, then via the start playing menu you can control what happens next.
+You can find more resources explaining its idea online!
+enjoy
+
+Enter 1 now to go back to the main menu.
